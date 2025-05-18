@@ -20,7 +20,13 @@ This is a simple web application built with Python and Streamlit that allows use
    pip install streamlit
 
 
-Login Credentials:
-Username	Password
-user1	    pass1
-premium1	pass2
+## 🔐 Login Credentials
+
+Use the following predefined accounts to log in:
+
+| User Type     | Username   | Password |
+|---------------|------------|----------|
+| Regular User  | `user1`    | `pass1`  |
+| Premium User  | `premium1` | `pass2`  |
+
+> ⚠️ Please enter the credentials **exactly as shown**, they are case-sensitive.
